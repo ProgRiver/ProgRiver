@@ -1,5 +1,3 @@
-![Header](https://github.com/ProgRiver/ProgRiver/blob/main/assets/forgh4.png)
-
 ___
 ### Languages and tools
 
